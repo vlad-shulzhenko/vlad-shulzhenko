@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vlad-shulzhenko
 - 👀 I’m interested in programming and crypto
-- 🌱 I’m currently learning html, css, js
-- 💞️ I’m looking to collaborate with best people 
 - 📫 How to reach me -> telegram: @shulya_1
 
 <!---
