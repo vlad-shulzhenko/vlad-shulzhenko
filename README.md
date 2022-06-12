@@ -1,6 +1,8 @@
 # 💫About Me :
 👋 Hi, I’m @vlad-shulzhenko
+
 👀 I’m interested in programming and crypto
+
 🌐 My main stack is React + Typescript
 
 ## 🌐Socials
